@@ -1,0 +1,14 @@
+﻿Need to impelment followings:
+Authentication using identity, Expection Handeling, Logging, 
+Entity Validation, Report pagging, Inmemory chache
+
+
+
+#Study Materials:
+https://medium.com/c-sharp-progarmming/tutorial-net-5-clean-architecture-4cc900f7945b
+https://jasontaylor.dev/clean-architecture-getting-started/
+https://www.ssw.com.au/rules/rules-to-better-clean-architecture
+
+
+#CleanArchitecture Project
+https://github.com/jasontaylordev/CleanArchitecture
